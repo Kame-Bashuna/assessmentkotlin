@@ -19,11 +19,9 @@ fun isPalindrome(word1:String,word2:String):Boolean {
     if (word1 == "madam")
         println(true)
     else(word2 =="madam grace")
-
          return (false)
 
 }
-
 //no4
 fun calculateSphere(){
     var volume=4/3*3.14*14*14*14
